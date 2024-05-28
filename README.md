@@ -1,4 +1,4 @@
-# MRI Classification
+# Brain Matter MRI Classification
 
 ## Overview
 This Python project is designed to process and analyze MRI images using deep learning to differentiate between white matter, grey matter, and cerebrospinal fluid. The project uses libraries such as TensorFlow, PyTorch, NumPy, and Scikit-Learn to perform tasks like image resizing, data interpolation, and model training.
